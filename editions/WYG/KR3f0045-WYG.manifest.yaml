@@ -1,0 +1,76 @@
+canonical_identifier: bkk:krp/KR3f0045/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3f0045/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 弧矢算術
+  date: '2015-08-24 23:10:57.153925'
+  source:
+    repository: kanripo
+    path: KR3f0045
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3f0045_000-WYG.yaml, hash: 'sha256:44c95181276c3770c0eb4773c21a2bc1d17de35c89d9637d6ad4994382d3342a'}
+  - {seq: 1, filename: KR3f0045_001-WYG.yaml, hash: 'sha256:43ea4b7afabef1e9d3a345ef35761cc8d217d847257ce6062cbb563345e08a60'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3f0045_000-WYG.markers.yaml, hash: 'sha256:01f8ae705d2ac30151e1f39692736b92d5e1c73297b8a89ebb26437a865e8b08'}
+  - {seq: 1, role: markers, filename: assets/KR3f0045_001-WYG.markers.yaml, hash: 'sha256:2989023ed0ece2ed9d09905c5b1f80a5455ab96afbee45d0916a35a582ebcffb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3f0045_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 265
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3f0045_WYG_000-3a
+    span:
+    - body
+    - 265
+    - 416
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3f0045_WYG_000-4a
+    span:
+    - body
+    - 416
+    - 1745
+  label: 弧矢論説
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0045_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 12533
+  label: 弧矢算術
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0045_WYG_001-58a
+    span:
+    - body
+    - 12533
+    - 12744
+  label: 弧矢算術
+  type: section
+  level: 1
+hash: sha256:7b5a8fde0abf1b8ee8066dd0f336658c7835683b7a8dfd6985333639eadc6bc6
