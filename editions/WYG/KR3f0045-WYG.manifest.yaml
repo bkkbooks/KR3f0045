@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR3f0045_000-WYG.yaml, hash: 'sha256:44c95181276c3770c0eb4773c21a2bc1d17de35c89d9637d6ad4994382d3342a'}
   - {seq: 1, filename: KR3f0045_001-WYG.yaml, hash: 'sha256:43ea4b7afabef1e9d3a345ef35761cc8d217d847257ce6062cbb563345e08a60'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3f0045_000-WYG.markers.yaml, hash: 'sha256:01f8ae705d2ac30151e1f39692736b92d5e1c73297b8a89ebb26437a865e8b08'}
-  - {seq: 1, role: markers, filename: assets/KR3f0045_001-WYG.markers.yaml, hash: 'sha256:2989023ed0ece2ed9d09905c5b1f80a5455ab96afbee45d0916a35a582ebcffb'}
+  - {seq: 0, role: markers, filename: assets/KR3f0045_000-WYG.markers.yaml, hash: 'sha256:385631b93a9fcc6d2b92118ee49daef02eba023f57fbfe02720f71a3503d8ef4'}
+  - {seq: 1, role: markers, filename: assets/KR3f0045_001-WYG.markers.yaml, hash: 'sha256:b5c47f4d80d788274675b3bd880603dc7a6ec1761df2f62850aded894f1b937b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -73,4 +73,4 @@ table_of_contents:
   label: 弧矢算術
   type: section
   level: 1
-hash: sha256:7b5a8fde0abf1b8ee8066dd0f336658c7835683b7a8dfd6985333639eadc6bc6
+hash: sha256:959257e321439eea9f4860bd0545bc8f67683a321856ec76e4bcc26bd4357dad

@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3f0045_000.yaml, hash: 'sha256:2684980dd6337401319e965ef152a2d28df2f1d7e261c467249aec21b8ef65bc'}
   - {seq: 1, filename: KR3f0045_001.yaml, hash: 'sha256:be5bbae8f276a987d7478a53b09d876bf871bb0065583cccd7c2fda590099a94'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3f0045_000.markers.yaml, hash: 'sha256:9578e674df3bc486db8eae3eaa3c6084b4c9eb8557945d82b11848ac81a44daf'}
-  - {seq: 1, role: markers, filename: assets/KR3f0045_001.markers.yaml, hash: 'sha256:fadb93b0e2504406db403db8f1769648fc60857ff1072cad5eb829e6f02f7c72'}
+  - {seq: 0, role: markers, filename: assets/KR3f0045_000.markers.yaml, hash: 'sha256:8a88df9c9506e2f3b9cd1aabf354776c3e82793128c4d9015cd66fe1756ea0a8'}
+  - {seq: 1, role: markers, filename: assets/KR3f0045_001.markers.yaml, hash: 'sha256:ba02fce0eb2671f1cd9bfae5d1045a7dd33bff35a59d7a964c27a698d4e4d991'}
 table_of_contents:
 - ref:
     seq: 0
@@ -76,7 +76,7 @@ table_of_contents:
   label: 弧矢算術
   type: section
   level: 1
-hash: sha256:5d06ba097f45181169b1f987e6080d407e033e4846e9817c56352e16939d9cd9
+hash: sha256:31048c1188d2ef204612d79a508c485d92b19cb2bdec198c388281f6ddd75116
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
